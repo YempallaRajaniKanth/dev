@@ -1,0 +1,5 @@
+%MeanFiltering("Fig0335(a)(ckt_board_saltpep_prob_pt05).tif");
+%guassianFilteringRajani("Fig0335(a)(ckt_board_saltpep_prob_pt05).tif");
+%MedianFiltering("Fig0335(a)(ckt_board_saltpep_prob_pt05).tif");
+im=
+Gscale(im,3,[5 5],1.6);
